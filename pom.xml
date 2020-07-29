@@ -24,6 +24,11 @@
 		</license>
 	</licenses>
 
+	<!-- Properties -->
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
 	<!-- Source code -->
 	<scm>
 		<developerConnection>scm:git:git@github.com:RoyAwesome/${project.name}.git</developerConnection>
